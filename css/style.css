@@ -120,6 +120,11 @@
       opacity: .85;
   }
 
+  .contact-item a {
+      color: var(--white);
+      text-decoration: none;
+  }
+
   .tags {
       display: flex;
       flex-wrap: wrap;
